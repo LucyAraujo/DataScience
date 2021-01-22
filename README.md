@@ -7,7 +7,7 @@
 # Lucinda Araujo
 <sub>*Learning about new tecnology</sub>
 
-As a experienced  BI Analyst that is trying to learn new tecnologys.
+Experienced SAP Analyst with a demonstrated history of working in the information technology and services industry. Skilled in Oracle Database, ITIL, Extract, Transform, Load (ETL), Operating Systems, and SAP Products. Strong information technology professional with IT at Universidade Bandeirante de São Paulo. 
 
 **Background in:**  SAP , SQL , BW , SAC, HANA.
 
