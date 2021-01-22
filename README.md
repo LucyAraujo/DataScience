@@ -5,7 +5,7 @@
 </p>
 
 # Lucinda Araujo
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Learning about new tecnology</sub>
 
 As a experienced  BI Analyst that is trying to learn new tecnologys.
 
