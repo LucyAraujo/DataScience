@@ -12,8 +12,7 @@ As a experienced  BI Analyst that is trying to learn new tecnologys.
 **Background in:**  SAP , SQL , BW , SAC, HANA.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
+* [LinkedIn](https://www.linkedin.com/in/lu307703/)
 * [Medium](https://www.medium.com)
 
 
