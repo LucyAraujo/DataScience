@@ -13,7 +13,7 @@ Experienced SAP Analyst with a demonstrated history of working in the informatio
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/lu307703/)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@lucynda.arujo)
 
 
 ## Projetos:
